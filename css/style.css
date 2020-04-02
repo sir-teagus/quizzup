@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: rgba(33, 33, 33, 1);
+  color: #fff;
+}
+
+.space {
+  margin-bottom: 25px;
+}
+
+.main-header {
+  background: url(../img/jigsaw-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+}
+
+.showcase {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.card-content {
+  min-height: 120px !important;
+}
+
+.perguntas {
+  padding: 20px 20px !important;
+  margin-bottom: 20px !important;
+}
+
+.collection-item {
+  color: #fff !important;
+}
+
+.badge {
+  color: #fff !important;
+}
